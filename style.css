@@ -220,6 +220,7 @@ footer a:hover{
         width: 100%;
         margin-top: -40px;
         height: 300px;
+        border-bottom-left-radius: 0px;
     }
     /*right box*/
     #right_box{
