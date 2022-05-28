@@ -25,12 +25,13 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/desktop-screenshot.png)
-![](./)
+![](./screenshots/mobile-screenshot-1.jpeg)
+![](./screenshots/mobile-screenshot-2.jpeg)
 
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/reponsive-component-with-media-querry-flexbox-html-e-css-W1ThX4TTYj]
 - Live Site URL: [https://ifafaa.github.io/single-price-grid-component-project/]
 
 
